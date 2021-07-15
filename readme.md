@@ -1,4 +1,4 @@
-# Trading bot! :money_with_wings::chart_with_upwards_trend:
+# WORK DONE Trading bot! :money_with_wings::chart_with_upwards_trend:
 [![npm](https://img.shields.io/npm/v/npm.svg)]()
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gmverdon/TradingBot/issues)
 
